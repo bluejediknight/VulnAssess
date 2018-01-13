@@ -1,0 +1,14 @@
+etc/passwd
+etc/host.conf
+etc/hostname
+etc/hosts
+etc/phpMyAdmin/config.inc.php
+etc/apache2/apache2.conf
+etc/httpd/httpd.conf
+etc/httpd/conf/httpd.conf
+etc/apache22/httpd.conf
+usr/local/etc/apache22/httpd.conf
+var/log/httpd-error.log
+root/.bash_history
+var/log/httpd-access.log
+etc/php.conf
