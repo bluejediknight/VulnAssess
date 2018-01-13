@@ -1,4 +1,0 @@
-password
-p4ssword
-goodbye
-secret
